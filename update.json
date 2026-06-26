@@ -1,5 +1,10 @@
 {
-	"index": 1,
-	"openUrl": "https://flowhub.wms24.eu/",
-	"imageUrl": "https://raw.githubusercontent.com/LogsoftPL/litenews/refs/heads/master/flowhub.png"
+	"changeDate": "20260626"
+	"news": [
+		{
+			"index": 1,
+			"openUrl": "https://flowhub.wms24.eu/",
+			"imageUrl": "https://raw.githubusercontent.com/LogsoftPL/litenews/refs/heads/master/flowhub.png"
+		}
+	]
 }
